@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeP1xel
+- 👋 Hi, I’m @pixelscolourfulworld
 - 👀 I’m interested in Information Technology, Finance, Business, Entrepreneurship and Design
 - 🌱 I’m currently learning HTML, CSS, JScript, Python
 - 📫 How to reach me: Don't
